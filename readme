@@ -1,0 +1,31 @@
+Photometric Stereo Assistent is a simple desktop App made for easy computing, managing and storing results of Photometric calculations.
+Project is a part of my Engineer's Thesis. It's BETA version, not all functions have been implemented yet.
+
+How to use: 
+Launch '/Include/run.py' with Python 3.7 and type 'help' to get info about commands.
+Show existing data using: 'open buddha' and 'sshow'
+
+Default computation steps:
+Making new project: 'new [project_name]'
+light callibration: 'lcompute' 
+normal map computing: 'ncompute' 
+depth map computing: 'dcompute' 
+3D surface view: 'sshow'
+
+Planned features:
+- GUI
+- camera acquisition, callibration
+- postprocessing control
+- executable for WIN and LINUX
+
+Used modules:
+numpy >= 1.15.4
+cv2 >= 3.4.3
+matplotlib >= 3.0.2
+scipy >= 1.1.0
+
+Examples shared by University of Washington Computer Science & Engineering:
+https://courses.cs.washington.edu/courses/cse455/10wi/projects/project
+
+MIT Licence
+Miko³aj Maœlanka
