@@ -1,0 +1,2 @@
+owl
+{'home': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv'), 'projects': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects'), 'name': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/owl'), 'lights': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/owl/Lights'), 'images': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/owl/Images'), 'results': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/owl/Results'), 'config': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/owl/config.txt')}

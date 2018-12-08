@@ -1,0 +1,2 @@
+cat
+{'home': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv'), 'projects': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects'), 'name': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/cat'), 'lights': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/cat/Lights'), 'images': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/cat/Images'), 'results': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/cat/Results'), 'config': WindowsPath('C:/Users/mikim/Desktop/noszkurwa/venv/Projects/cat/config.txt')}
