@@ -12,12 +12,6 @@ normal map computing: 'ncompute'
 depth map computing: 'dcompute' 
 3D surface view: 'sshow'
 
-Planned features:
-- GUI
-- camera acquisition, callibration
-- postprocessing control
-- executable for WIN and LINUX
-
 Used modules:
 numpy >= 1.15.4
 cv2 >= 3.4.3
@@ -28,4 +22,4 @@ Examples shared by University of Washington Computer Science & Engineering:
 https://courses.cs.washington.edu/courses/cse455/10wi/projects/project
 
 MIT Licence
-Miko³aj Maœlanka
+MikoÂ³aj MaÅ“lanka
